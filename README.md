@@ -1,6 +1,6 @@
 💱 Currency Converter Web App
 
-A simple and responsive Currency Converter web application built using HTML, CSS, and JavaScript.
+A simple and responsive Currency Converter.
 This project allows users to enter a quantity, select a currency, and view converted values in different currencies.
 
 🚀 Features
